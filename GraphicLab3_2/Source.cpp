@@ -264,9 +264,6 @@ void drawOrMove(vector <Point> * points, list<int> * code) {
 
 void display() {
 
-
-
-
 	if (moveOne == 0) {
 		glClearColor(0, 0, 0, 0);
 		glClear(GL_COLOR_BUFFER_BIT);
